@@ -28,7 +28,7 @@ public:
 	void IncreaseHP();
 	int GetNecromancy();
 
-	Player();
+	//Player();
 
 	int GetPotionMax();
 	int attack(Enemy &target);

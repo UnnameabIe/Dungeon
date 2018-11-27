@@ -22,5 +22,5 @@ void Level::ChangeTile(char c, point pnt) {
 
 Level::Level() {
 	// TODO - implement Level::Level
-	throw "Not yet implemented";
+	
 }

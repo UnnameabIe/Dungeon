@@ -26,10 +26,10 @@ int Player::GetNecromancy() {
 	throw "Not yet implemented";
 }
 
-Player::Player() {
+/*Player::Player() {
 	// TODO - implement Player::Player
-	throw "Not yet implemented";
-}
+	
+}*/
 
 int Player::GetPotionMax() {
 	// TODO - implement Player::GetPotionMax

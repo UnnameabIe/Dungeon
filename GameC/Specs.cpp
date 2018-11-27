@@ -3,7 +3,7 @@
 
 Specs::Specs() {
 	// TODO - implement Specs::Specs
-	throw "Not yet implemented";
+	
 }
 
 int Specs::getMana() {
